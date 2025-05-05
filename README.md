@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting whether an engineering student will be placed or not based on academic, demographic, and internship-related features. Using a publicly available dataset, multiple classification algorithms were applied, and Random Forest was chosen as the final model based on its accuracy and interpretability.
+This project focuses on predicting whether an engineering student will be placed or not based on academic, number of internship and other related features. Using a publicly available dataset, multiple classification algorithms were applied, and Random Forest was chosen as the final model based on its accuracy and interpretability.
 
 ## Dataset
 
