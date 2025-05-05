@@ -110,7 +110,7 @@ Use cross-validation for more robust performance
 
 Build a Streamlit web app for live prediction
 
-✍️ Author
+## ✍️ Author
 
 Vaibhav ShivhareB.Tech (CSE)
 
