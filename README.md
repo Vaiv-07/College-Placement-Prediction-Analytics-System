@@ -113,5 +113,7 @@ Build a Streamlit web app for live prediction
 ✍️ Author
 
 Vaibhav ShivhareB.Tech (CSE)
+
 Class of 2024
+
 Aspiring Data Scientist & ML Engineer
